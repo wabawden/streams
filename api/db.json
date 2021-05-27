@@ -4,6 +4,44 @@
       "title": "foo",
       "description": "bar",
       "id": 1
+    },
+    {
+      "title": "my stream",
+      "description": "this is my first stream",
+      "id": 2
+    },
+    {
+      "title": "my stream 2",
+      "description": "this is my second stream",
+      "id": 3
+    },
+    {
+      "formValues": {
+        "title": "stream 3",
+        "description": "this is my stream2",
+        "userId": "111135674949132503974",
+        "id": 4
+      },
+      "id": 4
+    },
+    {
+      "title": "hello",
+      "description": "this",
+      "id": 5
+    },
+    {
+      "title": "Oy Oy",
+      "description": "There",
+      "id": 6
+    },
+    {
+      "formValues": {
+        "title": "hello",
+        "description": "test",
+        "userId": "111135674949132503974",
+        "id": 7
+      },
+      "id": 7
     }
   ]
 }
